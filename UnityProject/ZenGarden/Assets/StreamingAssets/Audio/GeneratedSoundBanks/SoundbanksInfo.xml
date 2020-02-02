@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\Assets\StreamingAssets\Audio\GeneratedSoundBanks\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1686739444" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Story</ObjectPath>
+			<ShortName>Story</ShortName>
+			<Path>Story.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3077739996" Name="Play_2_UI_CLICK_1" ObjectPath="\Events\Default Work Unit\Play_2_UI_CLICK_1" DurationType="OneShot" DurationMin="0.300000" DurationMax="0.300000"/>
+				<Event Id="202855082" Name="Play_game_menu_music" ObjectPath="\Events\Default Work Unit\Play_game_menu_music" DurationType="OneShot" DurationMin="302.830353" DurationMax="302.830353"/>
+				<Event Id="1329976974" Name="Play_ui_09" ObjectPath="\Events\Default Work Unit\Play_ui_09" DurationType="OneShot" DurationMin="0.075011" DurationMax="0.075011"/>
+				<Event Id="3155308026" Name="Play_ui_click_02" ObjectPath="\Events\Default Work Unit\Play_ui_click_02" DurationType="OneShot" DurationMin="0.243764" DurationMax="0.243764"/>
+				<Event Id="3155308027" Name="Play_ui_click_03" ObjectPath="\Events\Default Work Unit\Play_ui_click_03" DurationType="OneShot" DurationMin="0.150000" DurationMax="0.150000"/>
+				<Event Id="2714409814" Name="Play_writing" ObjectPath="\Events\Default Work Unit\Play_writing" DurationType="OneShot" DurationMin="7.076712" DurationMax="7.076712"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="67179182" Language="SFX">
+					<ShortName>background_music.wav</ShortName>
+					<Path>SFX\background_music_10C4C929.wem</Path>
+				</File>
+				<File Id="192420159" Language="SFX">
+					<ShortName>UI SFX\ui_09.wav</ShortName>
+					<Path>SFX\UI SFX\ui_09_10C4C929.wem</Path>
+				</File>
+				<File Id="217747989" Language="SFX">
+					<ShortName>UI SFX\ui_click_02.wav</ShortName>
+					<Path>SFX\UI SFX\ui_click_02_10C4C929.wem</Path>
+				</File>
+				<File Id="272797827" Language="SFX">
+					<ShortName>EVENTS\writing.wav</ShortName>
+					<Path>SFX\EVENTS\writing_50BFA721.wem</Path>
+				</File>
+				<File Id="775989684" Language="SFX">
+					<ShortName>UI SFX\ui_click_03.wav</ShortName>
+					<Path>SFX\UI SFX\ui_click_03_10C4C929.wem</Path>
+				</File>
+				<File Id="1007788302" Language="SFX">
+					<ShortName>UI SFX\2 UI CLICK 1.wav</ShortName>
+					<Path>SFX\UI SFX\2 UI CLICK 1_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1780448749" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Puzzle</ObjectPath>
+			<ShortName>Puzzle</ShortName>
+			<Path>Puzzle.bnk</Path>
+			<IncludedEvents>
+				<Event Id="510317686" Name="Play_achievement_unlock" ObjectPath="\Events\Default Work Unit\Play_achievement_unlock" DurationType="OneShot" DurationMin="7.198186" DurationMax="7.198186"/>
+				<Event Id="330433247" Name="Play_bright_click" ObjectPath="\Events\Default Work Unit\Play_bright_click" DurationType="OneShot" DurationMin="9.892675" DurationMax="9.892675"/>
+				<Event Id="3428451851" Name="Play_dirt_pick_01" ObjectPath="\Events\Default Work Unit\Play_dirt_pick_01" DurationType="OneShot" DurationMin="0.375147" DurationMax="0.375147"/>
+				<Event Id="3428451848" Name="Play_dirt_pick_02" ObjectPath="\Events\Default Work Unit\Play_dirt_pick_02" DurationType="OneShot" DurationMin="0.300000" DurationMax="0.300000"/>
+				<Event Id="3428451854" Name="Play_dirt_pick_04" ObjectPath="\Events\Default Work Unit\Play_dirt_pick_04" DurationType="OneShot" DurationMin="0.482449" DurationMax="0.482449"/>
+				<Event Id="3428451855" Name="Play_dirt_pick_05" ObjectPath="\Events\Default Work Unit\Play_dirt_pick_05" DurationType="OneShot" DurationMin="0.372948" DurationMax="0.372948"/>
+				<Event Id="1823049125" Name="Play_enter_game" ObjectPath="\Events\Default Work Unit\Play_enter_game" DurationType="OneShot" DurationMin="9.600000" DurationMax="9.600000"/>
+				<Event Id="2450801821" Name="Play_err_misclick" ObjectPath="\Events\Default Work Unit\Play_err_misclick" DurationType="OneShot" DurationMin="1.950703" DurationMax="1.950703"/>
+				<Event Id="2311302334" Name="Play_fail_sound" ObjectPath="\Events\Default Work Unit\Play_fail_sound" DurationType="OneShot" DurationMin="5.804989" DurationMax="5.804989"/>
+				<Event Id="258578655" Name="Play_foliage_01" ObjectPath="\Events\Default Work Unit\Play_foliage_01" DurationType="OneShot" DurationMin="1.285352" DurationMax="1.285352"/>
+				<Event Id="258578652" Name="Play_foliage_02" ObjectPath="\Events\Default Work Unit\Play_foliage_02" DurationType="OneShot" DurationMin="0.487506" DurationMax="0.487506"/>
+				<Event Id="258578653" Name="Play_foliage_03" ObjectPath="\Events\Default Work Unit\Play_foliage_03" DurationType="OneShot" DurationMin="0.600000" DurationMax="0.600000"/>
+				<Event Id="258578650" Name="Play_foliage_04" ObjectPath="\Events\Default Work Unit\Play_foliage_04" DurationType="OneShot" DurationMin="0.750000" DurationMax="0.750000"/>
+				<Event Id="202855082" Name="Play_game_menu_music" ObjectPath="\Events\Default Work Unit\Play_game_menu_music" DurationType="OneShot" DurationMin="302.830353" DurationMax="302.830353"/>
+				<Event Id="1551358484" Name="Play_garden_ambience" ObjectPath="\Events\Default Work Unit\Play_garden_ambience" DurationType="OneShot" DurationMin="230.399994" DurationMax="230.399994"/>
+				<Event Id="519352333" Name="Play_pulse_waiting" ObjectPath="\Events\Default Work Unit\Play_pulse_waiting" DurationType="OneShot" DurationMin="51.968006" DurationMax="51.968006"/>
+				<Event Id="2611228715" Name="Play_question_unsure" ObjectPath="\Events\Default Work Unit\Play_question_unsure" DurationType="OneShot" DurationMin="4.143855" DurationMax="4.143855"/>
+				<Event Id="4200519586" Name="Play_racoon_01" ObjectPath="\Events\Default Work Unit\Play_racoon_01" DurationType="OneShot" DurationMin="0.900000" DurationMax="0.900000"/>
+				<Event Id="4200519585" Name="Play_racoon_02" ObjectPath="\Events\Default Work Unit\Play_racoon_02" DurationType="OneShot" DurationMin="0.600000" DurationMax="0.600000"/>
+				<Event Id="4200519584" Name="Play_racoon_03" ObjectPath="\Events\Default Work Unit\Play_racoon_03" DurationType="OneShot" DurationMin="0.600000" DurationMax="0.600000"/>
+				<Event Id="2997304641" Name="Play_rock_01" ObjectPath="\Events\Default Work Unit\Play_rock_01" DurationType="OneShot" DurationMin="0.600000" DurationMax="0.600000"/>
+				<Event Id="2997304642" Name="Play_rock_02" ObjectPath="\Events\Default Work Unit\Play_rock_02" DurationType="OneShot" DurationMin="0.825011" DurationMax="0.825011"/>
+				<Event Id="1329976963" Name="Play_ui_04" ObjectPath="\Events\Default Work Unit\Play_ui_04" DurationType="OneShot" DurationMin="0.300000" DurationMax="0.300000"/>
+				<Event Id="1329976962" Name="Play_ui_05" ObjectPath="\Events\Default Work Unit\Play_ui_05" DurationType="OneShot" DurationMin="0.900000" DurationMax="0.900000"/>
+				<Event Id="1329976961" Name="Play_ui_06" ObjectPath="\Events\Default Work Unit\Play_ui_06" DurationType="OneShot" DurationMin="0.450000" DurationMax="0.450000"/>
+				<Event Id="1329976960" Name="Play_ui_07" ObjectPath="\Events\Default Work Unit\Play_ui_07" DurationType="OneShot" DurationMin="0.450000" DurationMax="0.450000"/>
+				<Event Id="1329976975" Name="Play_ui_08" ObjectPath="\Events\Default Work Unit\Play_ui_08" DurationType="OneShot" DurationMin="0.450000" DurationMax="0.450000"/>
+				<Event Id="1313199380" Name="Play_ui_10" ObjectPath="\Events\Default Work Unit\Play_ui_10" DurationType="OneShot" DurationMin="0.225011" DurationMax="0.225011"/>
+				<Event Id="1313199381" Name="Play_ui_11" ObjectPath="\Events\Default Work Unit\Play_ui_11" DurationType="OneShot" DurationMin="0.300000" DurationMax="0.300000"/>
+				<Event Id="1313199382" Name="Play_ui_12" ObjectPath="\Events\Default Work Unit\Play_ui_12" DurationType="OneShot" DurationMin="0.450000" DurationMax="0.450000"/>
+				<Event Id="1313199383" Name="Play_ui_13" ObjectPath="\Events\Default Work Unit\Play_ui_13" DurationType="OneShot" DurationMin="0.506258" DurationMax="0.506258"/>
+				<Event Id="1313199376" Name="Play_UI_14" ObjectPath="\Events\Default Work Unit\Play_UI_14" DurationType="OneShot" DurationMin="0.750000" DurationMax="0.750000"/>
+				<Event Id="1313199377" Name="Play_UI_15" ObjectPath="\Events\Default Work Unit\Play_UI_15" DurationType="OneShot" DurationMin="0.900000" DurationMax="0.900000"/>
+				<Event Id="1313199378" Name="Play_UI_16" ObjectPath="\Events\Default Work Unit\Play_UI_16" DurationType="OneShot" DurationMin="0.150000" DurationMax="0.150000"/>
+				<Event Id="3570728296" Name="Play_up_shift" ObjectPath="\Events\Default Work Unit\Play_up_shift" DurationType="OneShot" DurationMin="4.330657" DurationMax="4.330657"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="10227131" Language="SFX">
+					<ShortName>rock_02.wav</ShortName>
+					<Path>SFX\rock_02_10C4C929.wem</Path>
+				</File>
+				<File Id="42479672" Language="SFX">
+					<ShortName>UI SFX\ui_06.wav</ShortName>
+					<Path>SFX\UI SFX\ui_06_10C4C929.wem</Path>
+				</File>
+				<File Id="67179182" Language="SFX">
+					<ShortName>background_music.wav</ShortName>
+					<Path>SFX\background_music_10C4C929.wem</Path>
+				</File>
+				<File Id="75315326" Language="SFX">
+					<ShortName>EVENTS\pulse_waiting.wav</ShortName>
+					<Path>SFX\EVENTS\pulse_waiting_10C4C929.wem</Path>
+				</File>
+				<File Id="151548990" Language="SFX">
+					<ShortName>Racoon\racoon_03.wav</ShortName>
+					<Path>SFX\Racoon\racoon_03_10C4C929.wem</Path>
+				</File>
+				<File Id="169091936" Language="SFX">
+					<ShortName>UI SFX\ui_07.wav</ShortName>
+					<Path>SFX\UI SFX\ui_07_10C4C929.wem</Path>
+				</File>
+				<File Id="170853687" Language="SFX">
+					<ShortName>EVENTS\achievement_unlock.wav</ShortName>
+					<Path>SFX\EVENTS\achievement_unlock_10C4C929.wem</Path>
+				</File>
+				<File Id="192228968" Language="SFX">
+					<ShortName>UI SFX\ui_05.wav</ShortName>
+					<Path>SFX\UI SFX\ui_05_10C4C929.wem</Path>
+				</File>
+				<File Id="278545118" Language="SFX">
+					<ShortName>Foliage\foliage_04.wav</ShortName>
+					<Path>SFX\Foliage\foliage_04_10C4C929.wem</Path>
+				</File>
+				<File Id="291297624" Language="SFX">
+					<ShortName>Foliage\foliage_02.wav</ShortName>
+					<Path>SFX\Foliage\foliage_02_10C4C929.wem</Path>
+				</File>
+				<File Id="300697195" Language="SFX">
+					<ShortName>UI SFX\UI_15.wav</ShortName>
+					<Path>SFX\UI SFX\UI_15_10C4C929.wem</Path>
+				</File>
+				<File Id="321423379" Language="SFX">
+					<ShortName>Dirt\dirt_pick_01.wav</ShortName>
+					<Path>SFX\Dirt\dirt_pick_01_10C4C929.wem</Path>
+				</File>
+				<File Id="322710318" Language="SFX">
+					<ShortName>EVENTS\fail_sound.wav</ShortName>
+					<Path>SFX\EVENTS\fail_sound_10C4C929.wem</Path>
+				</File>
+				<File Id="397717105" Language="SFX">
+					<ShortName>UI SFX\ui_13.wav</ShortName>
+					<Path>SFX\UI SFX\ui_13_10C4C929.wem</Path>
+				</File>
+				<File Id="398839747" Language="SFX">
+					<ShortName>EVENTS\bright_click.wav</ShortName>
+					<Path>SFX\EVENTS\bright_click_10C4C929.wem</Path>
+				</File>
+				<File Id="425785307" Language="SFX">
+					<ShortName>UI SFX\ui_04.wav</ShortName>
+					<Path>SFX\UI SFX\ui_04_10C4C929.wem</Path>
+				</File>
+				<File Id="470200248" Language="SFX">
+					<ShortName>Racoon\racoon_01.wav</ShortName>
+					<Path>SFX\Racoon\racoon_01_10C4C929.wem</Path>
+				</File>
+				<File Id="554214678" Language="SFX">
+					<ShortName>UI SFX\UI_16.wav</ShortName>
+					<Path>SFX\UI SFX\UI_16_10C4C929.wem</Path>
+				</File>
+				<File Id="554283722" Language="SFX">
+					<ShortName>Dirt\dirt_pick_02.wav</ShortName>
+					<Path>SFX\Dirt\dirt_pick_02_10C4C929.wem</Path>
+				</File>
+				<File Id="569191811" Language="SFX">
+					<ShortName>UI SFX\ui_08.wav</ShortName>
+					<Path>SFX\UI SFX\ui_08_10C4C929.wem</Path>
+				</File>
+				<File Id="619892921" Language="SFX">
+					<ShortName>Foliage\foliage_03.wav</ShortName>
+					<Path>SFX\Foliage\foliage_03_10C4C929.wem</Path>
+				</File>
+				<File Id="645733197" Language="SFX">
+					<ShortName>rock_01.wav</ShortName>
+					<Path>SFX\rock_01_10C4C929.wem</Path>
+				</File>
+				<File Id="653149841" Language="SFX">
+					<ShortName>EVENTS\up_shift.wav</ShortName>
+					<Path>SFX\EVENTS\up_shift_10C4C929.wem</Path>
+				</File>
+				<File Id="659557563" Language="SFX">
+					<ShortName>Racoon\racoon_02.wav</ShortName>
+					<Path>SFX\Racoon\racoon_02_10C4C929.wem</Path>
+				</File>
+				<File Id="695873566" Language="SFX">
+					<ShortName>EVENTS\enter_game.wav</ShortName>
+					<Path>SFX\EVENTS\enter_game_10C4C929.wem</Path>
+				</File>
+				<File Id="707635877" Language="SFX">
+					<ShortName>garden_ambience .wav</ShortName>
+					<Path>SFX\garden_ambience _10C4C929.wem</Path>
+				</File>
+				<File Id="715401346" Language="SFX">
+					<ShortName>Dirt\dirt_pick_04.wav</ShortName>
+					<Path>SFX\Dirt\dirt_pick_04_10C4C929.wem</Path>
+				</File>
+				<File Id="763659988" Language="SFX">
+					<ShortName>Foliage\foliage_01.wav</ShortName>
+					<Path>SFX\Foliage\foliage_01_10C4C929.wem</Path>
+				</File>
+				<File Id="799731958" Language="SFX">
+					<ShortName>UI SFX\ui_11.wav</ShortName>
+					<Path>SFX\UI SFX\ui_11_10C4C929.wem</Path>
+				</File>
+				<File Id="936748913" Language="SFX">
+					<ShortName>Dirt\dirt_pick_05.wav</ShortName>
+					<Path>SFX\Dirt\dirt_pick_05_10C4C929.wem</Path>
+				</File>
+				<File Id="943920486" Language="SFX">
+					<ShortName>UI SFX\UI_14.wav</ShortName>
+					<Path>SFX\UI SFX\UI_14_10C4C929.wem</Path>
+				</File>
+				<File Id="944879066" Language="SFX">
+					<ShortName>UI SFX\ui_12.wav</ShortName>
+					<Path>SFX\UI SFX\ui_12_10C4C929.wem</Path>
+				</File>
+				<File Id="946180730" Language="SFX">
+					<ShortName>UI SFX\ui_10.wav</ShortName>
+					<Path>SFX\UI SFX\ui_10_10C4C929.wem</Path>
+				</File>
+				<File Id="960841626" Language="SFX">
+					<ShortName>EVENTS\err_misclick.wav</ShortName>
+					<Path>SFX\EVENTS\err_misclick_10C4C929.wem</Path>
+				</File>
+				<File Id="1056251890" Language="SFX">
+					<ShortName>EVENTS\question_unsure.wav</ShortName>
+					<Path>SFX\EVENTS\question_unsure_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="3853285476" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Title_Screen</ObjectPath>
+			<ShortName>Title_Screen</ShortName>
+			<Path>Title_Screen.bnk</Path>
+			<IncludedEvents>
+				<Event Id="202855082" Name="Play_game_menu_music" ObjectPath="\Events\Default Work Unit\Play_game_menu_music" DurationType="OneShot" DurationMin="302.830353" DurationMax="302.830353"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="67179182" Language="SFX">
+					<ShortName>background_music.wav</ShortName>
+					<Path>SFX\background_music_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

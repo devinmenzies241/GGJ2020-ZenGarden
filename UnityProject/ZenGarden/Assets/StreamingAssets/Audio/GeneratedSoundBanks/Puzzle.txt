@@ -1,0 +1,74 @@
+Event	ID	Name			Wwise Object Path	Notes
+	202855082	Play_game_menu_music			\Default Work Unit\Play_game_menu_music	
+	258578650	Play_foliage_04			\Default Work Unit\Play_foliage_04	
+	258578652	Play_foliage_02			\Default Work Unit\Play_foliage_02	
+	258578653	Play_foliage_03			\Default Work Unit\Play_foliage_03	
+	258578655	Play_foliage_01			\Default Work Unit\Play_foliage_01	
+	330433247	Play_bright_click			\Default Work Unit\Play_bright_click	
+	510317686	Play_achievement_unlock			\Default Work Unit\Play_achievement_unlock	
+	519352333	Play_pulse_waiting			\Default Work Unit\Play_pulse_waiting	
+	1313199376	Play_UI_14			\Default Work Unit\Play_UI_14	
+	1313199377	Play_UI_15			\Default Work Unit\Play_UI_15	
+	1313199378	Play_UI_16			\Default Work Unit\Play_UI_16	
+	1313199380	Play_ui_10			\Default Work Unit\Play_ui_10	
+	1313199381	Play_ui_11			\Default Work Unit\Play_ui_11	
+	1313199382	Play_ui_12			\Default Work Unit\Play_ui_12	
+	1313199383	Play_ui_13			\Default Work Unit\Play_ui_13	
+	1329976960	Play_ui_07			\Default Work Unit\Play_ui_07	
+	1329976961	Play_ui_06			\Default Work Unit\Play_ui_06	
+	1329976962	Play_ui_05			\Default Work Unit\Play_ui_05	
+	1329976963	Play_ui_04			\Default Work Unit\Play_ui_04	
+	1329976975	Play_ui_08			\Default Work Unit\Play_ui_08	
+	1551358484	Play_garden_ambience			\Default Work Unit\Play_garden_ambience	
+	1823049125	Play_enter_game			\Default Work Unit\Play_enter_game	
+	2311302334	Play_fail_sound			\Default Work Unit\Play_fail_sound	
+	2450801821	Play_err_misclick			\Default Work Unit\Play_err_misclick	
+	2611228715	Play_question_unsure			\Default Work Unit\Play_question_unsure	
+	2997304641	Play_rock_01			\Default Work Unit\Play_rock_01	
+	2997304642	Play_rock_02			\Default Work Unit\Play_rock_02	
+	3428451848	Play_dirt_pick_02			\Default Work Unit\Play_dirt_pick_02	
+	3428451851	Play_dirt_pick_01			\Default Work Unit\Play_dirt_pick_01	
+	3428451854	Play_dirt_pick_04			\Default Work Unit\Play_dirt_pick_04	
+	3428451855	Play_dirt_pick_05			\Default Work Unit\Play_dirt_pick_05	
+	3570728296	Play_up_shift			\Default Work Unit\Play_up_shift	
+	4200519584	Play_racoon_03			\Default Work Unit\Play_racoon_03	
+	4200519585	Play_racoon_02			\Default Work Unit\Play_racoon_02	
+	4200519586	Play_racoon_01			\Default Work Unit\Play_racoon_01	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	10227131	rock_02	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\rock_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dirt\rock_02		145596
+	42479672	ui_06	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\UI SFX\ui_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI SFX\ui_06		39754
+	67179182	game_menu_music	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\background_music_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music\game_menu_music		53419336
+	75315326	pulse_waiting	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\EVENTS\pulse_waiting_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\EVENTS\pulse_waiting		9167220
+	151548990	racoon_03	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\Racoon\racoon_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Racoon\racoon_03		105904
+	169091936	ui_07	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\UI SFX\ui_07_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI SFX\ui_07		39754
+	170853687	achievement_unlock	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\EVENTS\achievement_unlock_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\EVENTS\achievement_unlock		1269824
+	192228968	ui_05	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\UI SFX\ui_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI SFX\ui_05		79444
+	278545118	foliage_04	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\Foliage\foliage_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Foliage\foliage_04		132364
+	291297624	foliage_02	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\Foliage\foliage_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Foliage\foliage_02		86060
+	300697195	UI_15	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\UI SFX\UI_15_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI SFX\UI_15		79444
+	321423379	dirt_pick_01	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\Dirt\dirt_pick_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dirt\dirt_pick_01		33152
+	322710318	fail_sound	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\EVENTS\fail_sound_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\EVENTS\fail_sound		1024064
+	397717105	ui_13	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\UI SFX\ui_13_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI SFX\ui_13		44716
+	398839747	bright_click	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\EVENTS\bright_click_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\EVENTS\bright_click		1745132
+	425785307	ui_04	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\UI SFX\ui_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI SFX\ui_04		52984
+	470200248	racoon_01	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\Racoon\racoon_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Racoon\racoon_01		158824
+	554214678	UI_16	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\UI SFX\UI_16_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI SFX\UI_16		13294
+	554283722	dirt_pick_02	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\Dirt\dirt_pick_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dirt\dirt_pick_02		26524
+	569191811	ui_08	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\UI SFX\ui_08_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI SFX\ui_08		39754
+	619892921	foliage_03	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\Foliage\foliage_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Foliage\foliage_03		105904
+	645733197	rock_01	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\rock_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dirt\rock_01		105904
+	653149841	up_shift	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\EVENTS\up_shift_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\EVENTS\up_shift		763992
+	659557563	racoon_02	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\Racoon\racoon_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Racoon\racoon_02		105904
+	695873566	enter_game	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\EVENTS\enter_game_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\EVENTS\enter_game		1693504
+	707635877	garden_ambience	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\garden_ambience _10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\garden_ambience		40642624
+	715401346	dirt_pick_04	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\Dirt\dirt_pick_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dirt\dirt_pick_04		42616
+	763659988	foliage_01	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\Foliage\foliage_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Foliage\foliage_01		226800
+	799731958	ui_11	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\UI SFX\ui_11_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI SFX\ui_11		26524
+	936748913	dirt_pick_05	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\Dirt\dirt_pick_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dirt\dirt_pick_05		32958
+	943920486	UI_14	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\UI SFX\UI_14_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI SFX\UI_14		66214
+	944879066	ui_12	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\UI SFX\ui_12_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI SFX\ui_12		39754
+	946180730	ui_10	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\UI SFX\ui_10_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI SFX\ui_10		19910
+	960841626	err_misclick	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\EVENTS\err_misclick_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\EVENTS\err_misclick		344168
+	1056251890	question_unsure	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\EVENTS\question_unsure_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\EVENTS\question_unsure		731040
+

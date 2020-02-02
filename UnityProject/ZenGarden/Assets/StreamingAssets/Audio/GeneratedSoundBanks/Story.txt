@@ -1,0 +1,16 @@
+Event	ID	Name			Wwise Object Path	Notes
+	202855082	Play_game_menu_music			\Default Work Unit\Play_game_menu_music	
+	1329976974	Play_ui_09			\Default Work Unit\Play_ui_09	
+	2714409814	Play_writing			\Default Work Unit\Play_writing	
+	3077739996	Play_2_UI_CLICK_1			\Default Work Unit\Play_2_UI_CLICK_1	
+	3155308026	Play_ui_click_02			\Default Work Unit\Play_ui_click_02	
+	3155308027	Play_ui_click_03			\Default Work Unit\Play_ui_click_03	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	67179182	game_menu_music	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\background_music_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music\game_menu_music		53419336
+	192420159	ui_09	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\UI SFX\ui_09_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI SFX\ui_09		6680
+	217747989	ui_click_02	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\UI SFX\ui_click_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI SFX\ui_click_02		43064
+	272797827	writing	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\EVENTS\writing_50BFA721.wem		\Actor-Mixer Hierarchy\Default Work Unit\EVENTS\writing		1248396
+	775989684	ui_click_03	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\UI SFX\ui_click_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI SFX\ui_click_03		26524
+	1007788302	2 UI CLICK 1	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\UI SFX\2 UI CLICK 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI SFX\2 UI CLICK 1		52984
+

@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	202855082	Play_game_menu_music			\Default Work Unit\Play_game_menu_music	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	67179182	game_menu_music	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\background_music_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\game_menu_music		53419336
+
