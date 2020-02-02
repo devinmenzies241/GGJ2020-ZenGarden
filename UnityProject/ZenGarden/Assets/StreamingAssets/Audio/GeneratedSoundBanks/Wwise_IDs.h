@@ -29,6 +29,7 @@ namespace AK
         static const AkUniqueID PLAY_FOLIAGE_04 = 258578650U;
         static const AkUniqueID PLAY_GAME_MENU_MUSIC = 202855082U;
         static const AkUniqueID PLAY_GARDEN_AMBIENCE = 1551358484U;
+        static const AkUniqueID PLAY_ONWARD = 102599455U;
         static const AkUniqueID PLAY_PULSE_WAITING = 519352333U;
         static const AkUniqueID PLAY_QUESTION_UNSURE = 2611228715U;
         static const AkUniqueID PLAY_RACOON_01 = 4200519586U;

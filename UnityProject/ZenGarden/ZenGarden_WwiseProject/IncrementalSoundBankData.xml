@@ -6,14 +6,14 @@
 				<File Name="Ambience" Hash="754730436" Timestamp="1580595731"/>
 				<File Name="Default_SoundBank" Hash="4121139134" Timestamp="1580598507"/>
 				<File Name="Init" Hash="1182415902" Timestamp="1580595731"/>
-				<File Name="Puzzle" Hash="373196802" Timestamp="1580670340"/>
+				<File Name="Puzzle" Hash="339232631" Timestamp="1580677294"/>
 				<File Name="Story" Hash="1700070651" Timestamp="1580670340"/>
 				<File Name="Title_Screen" Hash="2126360515" Timestamp="1580668006"/>
 			</Language>
 		</Banks>
 		<XMLInfo>
 			<Language ID="-1">
-				<File Name="" Hash="1327904969" Timestamp="1580670340"/>
+				<File Name="" Hash="1904364227" Timestamp="1580677294"/>
 			</Language>
 		</XMLInfo>
 	</Platform>

@@ -755,6 +755,32 @@
 								<ActiveSource Name="background_music" ID="{60008CFE-CA83-476B-A779-6FA10E5FD024}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
+						<Sound Name="Onward" ID="{1877AAE9-05AB-4E68-9BB5-5CF2D99D69C3}" ShortID="886736754">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>-10</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{750DA177-04B4-4443-A662-D8C65467C88E}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{1960C7B0-7A4A-4E56-A506-DFEDF7C37AE4}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Onward" ID="{7FCABC5F-7E08-4BC6-AE2F-F315943E7ABD}" ShortID="954513095">
+									<Language>SFX</Language>
+									<AudioFile>Onward.wav</AudioFile>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Onward" ID="{7FCABC5F-7E08-4BC6-AE2F-F315943E7ABD}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
 					</ChildrenList>
 				</Folder>
 				<Folder Name="Racoon" ID="{16A0B2EE-AC37-4BEA-98B9-8C2949B45EA4}" ShortID="610736240">

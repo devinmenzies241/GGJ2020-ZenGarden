@@ -456,8 +456,7 @@ MonoBehaviour:
   data:
     idInternal: 0
     valueGuidInternal: 
-    WwiseObjectReference: {fileID: 11400000, guid: 611e41839d9361642bcc88e433d23112,
-      type: 2}
+    WwiseObjectReference: {fileID: 0}
   decodeBank: 0
   loadAsynchronous: 0
   saveDecodedBank: 0
@@ -476,8 +475,8 @@ GameObject:
   - component: {fileID: 773741521}
   - component: {fileID: 773741527}
   - component: {fileID: 773741526}
-  - component: {fileID: 773741524}
   - component: {fileID: 773741520}
+  - component: {fileID: 773741523}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -497,7 +496,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e88f3cc10e2b6f4c94a42afcd1dcc4a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  triggerList: ae8d9d44f7e1664c
+  triggerList: ae8d9d44
   useOtherObject: 0
   data:
     idInternal: 0
@@ -567,7 +566,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &773741524
+--- !u!114 &773741523
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -576,7 +575,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 773741519}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 70581c8f28e19cb46af226ccb62be808, type: 3}
+  m_Script: {fileID: 11500000, guid: 990c46bfb02562946a67387f3ea81d48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   triggerList: f7e1664c
@@ -587,7 +586,7 @@ MonoBehaviour:
   data:
     idInternal: 0
     valueGuidInternal: 
-    WwiseObjectReference: {fileID: 11400000, guid: b80c7f26251bba246953dcd19d3f42d1,
+    WwiseObjectReference: {fileID: 11400000, guid: a13b57b27dd94c84993e5c296bbb8d1c,
       type: 2}
   useCallbacks: 0
   Callbacks: []
@@ -597,6 +596,10 @@ MonoBehaviour:
   eventIdInternal: 0
   valueGuidInternal: 
   m_callbackDataInternal: {fileID: 0}
+  MultiPositionType: 1
+  multiPositionTypeLabel: 0
+  LargeModePositions: []
+  multiPositionArray: []
 --- !u!114 &773741526
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -820,7 +823,7 @@ MonoBehaviour:
   data:
     idInternal: 0
     valueGuidInternal: 
-    WwiseObjectReference: {fileID: 11400000, guid: b80c7f26251bba246953dcd19d3f42d1,
+    WwiseObjectReference: {fileID: 11400000, guid: 6dea6f56645797a4f8d9c63fd674de64,
       type: 2}
   useCallbacks: 0
   Callbacks: []

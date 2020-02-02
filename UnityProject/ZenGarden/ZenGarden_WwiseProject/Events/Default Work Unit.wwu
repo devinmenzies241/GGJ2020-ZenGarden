@@ -454,6 +454,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_Onward" ID="{B4F210F9-663E-4463-8D79-F182BF3929AC}">
+					<ChildrenList>
+						<Action Name="" ID="{15DFC9BC-4A4F-41B5-8D5E-76E6DB305F57}" ShortID="156570993">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Onward" ID="{1877AAE9-05AB-4E68-9BB5-5CF2D99D69C3}" WorkUnitID="{8BD4374D-7791-42D1-8A3B-7BFDDEA50B39}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

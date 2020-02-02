@@ -75,6 +75,7 @@
 				<Event Id="258578650" Name="Play_foliage_04" ObjectPath="\Events\Default Work Unit\Play_foliage_04" DurationType="OneShot" DurationMin="0.750000" DurationMax="0.750000"/>
 				<Event Id="202855082" Name="Play_game_menu_music" ObjectPath="\Events\Default Work Unit\Play_game_menu_music" DurationType="OneShot" DurationMin="302.830353" DurationMax="302.830353"/>
 				<Event Id="1551358484" Name="Play_garden_ambience" ObjectPath="\Events\Default Work Unit\Play_garden_ambience" DurationType="OneShot" DurationMin="230.399994" DurationMax="230.399994"/>
+				<Event Id="102599455" Name="Play_Onward" ObjectPath="\Events\Default Work Unit\Play_Onward" DurationType="OneShot" DurationMin="129.130432" DurationMax="129.130432"/>
 				<Event Id="519352333" Name="Play_pulse_waiting" ObjectPath="\Events\Default Work Unit\Play_pulse_waiting" DurationType="OneShot" DurationMin="51.968006" DurationMax="51.968006"/>
 				<Event Id="2611228715" Name="Play_question_unsure" ObjectPath="\Events\Default Work Unit\Play_question_unsure" DurationType="OneShot" DurationMin="4.143855" DurationMax="4.143855"/>
 				<Event Id="4200519586" Name="Play_racoon_01" ObjectPath="\Events\Default Work Unit\Play_racoon_01" DurationType="OneShot" DurationMin="0.900000" DurationMax="0.900000"/>
@@ -228,6 +229,10 @@
 				<File Id="946180730" Language="SFX">
 					<ShortName>UI SFX\ui_10.wav</ShortName>
 					<Path>SFX\UI SFX\ui_10_10C4C929.wem</Path>
+				</File>
+				<File Id="954513095" Language="SFX">
+					<ShortName>Onward.wav</ShortName>
+					<Path>SFX\Onward_10C4C929.wem</Path>
 				</File>
 				<File Id="960841626" Language="SFX">
 					<ShortName>EVENTS\err_misclick.wav</ShortName>

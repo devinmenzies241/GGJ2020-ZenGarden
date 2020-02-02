@@ -1,4 +1,5 @@
 Event	ID	Name			Wwise Object Path	Notes
+	102599455	Play_Onward			\Default Work Unit\Play_Onward	
 	202855082	Play_game_menu_music			\Default Work Unit\Play_game_menu_music	
 	258578650	Play_foliage_04			\Default Work Unit\Play_foliage_04	
 	258578652	Play_foliage_02			\Default Work Unit\Play_foliage_02	
@@ -69,6 +70,7 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	943920486	UI_14	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\UI SFX\UI_14_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI SFX\UI_14		66214
 	944879066	ui_12	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\UI SFX\ui_12_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI SFX\ui_12		39754
 	946180730	ui_10	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\UI SFX\ui_10_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI SFX\ui_10		19910
+	954513095	Onward	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\Onward_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music\Onward		24793108
 	960841626	err_misclick	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\EVENTS\err_misclick_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\EVENTS\err_misclick		344168
 	1056251890	question_unsure	C:\Users\devin\Documents\GitHub\GGJ2020-ZenGarden\UnityProject\ZenGarden\ZenGarden_WwiseProject\.cache\Windows\SFX\EVENTS\question_unsure_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\EVENTS\question_unsure		731040
 
